@@ -7,7 +7,8 @@
             멀티모달 형태, 서비스간의 유기적 연동
     카카오 : 코GPT , 챗봇 출시 예정
             헬스케어 AI 판독 서비스, 신약 개발 AI접목, AI 아티스트 등
-# first link
-this is that
-# second link
-this is that
+# AI가 세 종류인 건 아시나요?…초인공지능까진 아직 먼 길
+1) https://www.yna.co.kr/view/AKR20230306133800017
+2) 2023.03.07
+3) AI의 세가지 분류 (AGI-범용 인공지능 / ASI-초인공지능 / ANI-제한적 인공지능) 챗GPT는 ANI에 해당
+        ANI의 사용 -> 서제스트(검색과 추천), OCR(광학문자판독)
